@@ -3,11 +3,11 @@
 <p>O app foi desenvolvido em React Native.</p>
 
 <div>
-	<img src="assets/src/img-3.jpeg">
-	<img src="assets/src/img-2.jpeg">
+	<img src="src/assets/src/img-3.jpeg">
+	<img src="src/assets/src/img-2.jpeg">
 </div>
 
 <div>
-	<img src="assets/src/img-1.jpeg">
-	<img src="assets/src/img-4.jpeg">
+	<img src="src/assets/src/img-1.jpeg">
+	<img src="src/assets/src/img-4.jpeg">
 </div>
