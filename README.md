@@ -3,7 +3,7 @@
 <p>O app foi desenvolvido em React Native.</p>
 
 <div float="left">
-	<img src="src/assets/img-3.jpeg" width="100">
+	<img src="src/assets/img-3.jpeg" width="200">
 	<img src="src/assets/img-2.jpeg" width="100">
 </div>
 
